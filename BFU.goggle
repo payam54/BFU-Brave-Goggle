@@ -3,46 +3,27 @@
 ! public: true
 ! author: payam54
 
-$discard,site=ticket*.com
 $discard,site=booking.com
 $discard,site=yellowpages.com
-$discard,site=*.yellowpages.com
 $discard,site=yp.com
-$discard,site=*.yp.com
 $discard,site=yelp.com
-$discard,site=*.yelp.com
 $discard,site=facebook.com
-$discard,site=*.facebook.com
 $discard,site=tiktok.com
-$discard,site=*.tiktok.com
 $discard,site=instagram.com
-$discard,site=*.instagram.com
 $discard,site=x.com
-$discard,site=*.x.com
 $discard,site=youtube.com
-$discard,site=*.youtube.com
 $discard,site=eventbrite.com
-$discard,site=*.eventbrite.com
 $discard,site=eventbrite.co.uk
-$discard,site=*.eventbrite.co.uk
 $discard,site=eventbrite.ca
-$discard,site=*.eventbrite.ca
 $discard,site=meetup.com
-$discard,site=*.meetup.com
 $discard,site=nextdoor.com
-$discard,site=*.nextdoor.com
 $discard,site=ticketmaster.com
-$discard,site=*.ticketmaster.com
 $discard,site=ticketmaster.co.uk
-$discard,site=*.ticketmaster.co.uk
 $discard,site=ticketmaster.ca
-$discard,site=*.ticketmaster.ca
 $discard,site=bing.com
 $discard,site=duckduckgo.com
 $discard,site=amazon.com
-$discard,site=*.amazon.com
 $discard,site=ebay.com
-$discard,site=*.ebay.com
 $discard,site=investor.google.com
 $discard,site=calendar.google.com
 $discard,site=workspace.google.com
@@ -94,7 +75,3 @@ $discard,site=linkedin.com
 $discard,site=investor.pinterestinc.com
 $discard,site=pinterest.com
 $discard,site=pinterestcareers.com
-
-$boost=4,site=*.cityof*.com
-$boost=4,site=*.cityof*.gov
-$boost=4,site=*.cityof*.org
