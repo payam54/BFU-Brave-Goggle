@@ -4,20 +4,20 @@ A Brave Search Goggle that excludes social media, event, and ticketing websites 
 ## Excluded Websites
 
 ### Social Media
-- **yelp.com** (and all sub-domains)
-- **facebook.com** (and all sub-domains)
-- **tiktok.com** (and all sub-domains)
-- **instagram.com** (and all sub-domains)
-- **x.com** (and all sub-domains)
-- **youtube.com** (and all sub-domains)
+- **yelp.com**
+- **facebook.com**
+- **tiktok.com**
+- **instagram.com**
+- **x.com**
+- **youtube.com**
 
 ### Event Platforms
-- **eventbrite.com** and all country-specific alternatives (.co.uk, .ca, .com.au, .sg, .fr, .de, .es, .it, .nl, .ie, .co.nz) and their sub-domains
-- **meetup.com** (and all sub-domains)
-- **nextdoor.com** (and all sub-domains)
+- **eventbrite.com**
+- **meetup.com**
+- **nextdoor.com**
 
 ### Ticketing Platforms
-- **ticketmaster.com** and all country-specific alternatives (.co.uk, .ca, .de, .fr, .es, .it, .com.au, .nl, .ie, .se, .fi, .no, .com.mx, .dk, .ch, .be, .at, .cz, .pl, .co.nz) and their sub-domains
+- **ticketmaster.com** 
 
 ## Usage
 
