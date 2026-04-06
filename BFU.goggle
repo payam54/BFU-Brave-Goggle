@@ -81,3 +81,5 @@ $discard,site=fandom.com
 $discard,site=wiley.com
 $discard,site=substack.com
 $discard,site=blogger.com
+$discard,site=reddit.com
+$discard,site=southocbeaches.com
