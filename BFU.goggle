@@ -5,10 +5,17 @@
 
 $boost,site=*.gov
 $boost,site=*.edu
+$boost,site=*.city
+$boost,site=*.town
+$boost,site=*.*.us
 $boost,site=cityof*.org
 $boost,site=cityof*.com
 $boost,site=cityof*.us
 $boost,site=visit*.com
+
+$downrank,site=*.tv
+$downrank,site=*.ai
+$downrank,site=*.net
 
 $discard,site=abc.com
 $discard,site=alibaba.com
