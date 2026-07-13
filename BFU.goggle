@@ -3,20 +3,27 @@
 ! public: true
 ! author: payam54
 
-$boost,site=*.gov
-$boost,site=*.edu
-$boost,site=*.city
-$boost,site=*.town
-$boost,site=*.*.us
-$boost,site=cityof*.org
-$boost,site=cityof*.com
-$boost,site=cityof*.us
-$boost,site=visit*.com
+! Boost government, education, and municipal TLDs
+*.gov^$boost=2
+*.edu^$boost=2
+*.city^$boost=2
+*.town^$boost=2
 
-$downrank,site=*.tv
-$downrank,site=*.ai
-$downrank,site=*.net
+! Boost all .us domains (this covers *.state.us)
+*.us^$boost
 
+! Boost specific municipal and tourism domain patterns
+cityof*.org^$boost=2
+cityof*.com^$boost=2
+cityof*.us^$boost=2
+visit*.com^$boost=2
+
+! Downrank websites that are less likey useful
+*.tv^$downrank
+*.ai^$downrank
+*.net^$downrank
+
+! Discard without exception
 $discard,site=abc.com
 $discard,site=alibaba.com
 $discard,site=aliexpress.com
@@ -79,6 +86,7 @@ $discard,site=netflix.com
 $discard,site=nextdoor.com
 $discard,site=npr.com
 $discard,site=nytimes.com
+$discard,site=office.com
 $discard,site=paypal.com
 $discard,site=pinterest.com
 $discard,site=pinterestcareers.com
@@ -90,6 +98,7 @@ $discard,site=snopes.com
 $discard,site=southocbeaches.com
 $discard,site=substack.com
 $discard,site=support.google.com
+$discard,site=t.co
 $discard,site=target.com
 $discard,site=ticketmaster.ca
 $discard,site=ticketmaster.co.uk
