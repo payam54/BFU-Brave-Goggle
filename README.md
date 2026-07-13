@@ -22,6 +22,5 @@ A Brave Search Goggle that excludes social media, event, and ticketing websites 
 ## Usage
 
 To use this Goggle in Brave Search:
-1. Open [Brave Search](https://search.brave.com).
-2. Go to **Settings → Goggles**.
-3. Click **Add a Goggle by URL** and paste the raw URL of `BFU.goggle` from this repository.
+https://search.brave.com/goggles/create
+
