@@ -4,26 +4,79 @@
 ! author: payam54
 
 ! Boost government, education, and municipal TLDs
-*.gov^$boost=2
+*.gov^$boost=3
 *.edu^$boost=2
-*.city^$boost=2
-*.town^$boost=2
+*.city^$boost=3
+*.town^$boost=3
 
-! Boost all .us domains (this covers *.state.us)
+! Boost all domains (this covers *.state.us)
+*.art^$boost
 *.us^$boost
+*.org^$boost
+*.yoga^$boost
+*.group^$boost
+*.center^$boost
+*.beer^$boost
+*.community^$boost
+*.dance^$boost
+*.dog^$boost
+*.fishing^$boost
+*.ngo^$boost
+*.pet^$boost
+*.tours^$boost
+*.vacations^$boost
+*.wine^$boost
+*.college^$boost
+*.university^$boost
 
 ! Boost specific municipal and tourism domain patterns
-cityof*.org^$boost=2
-cityof*.com^$boost=2
-cityof*.us^$boost=2
+.gov/*events/$boost=5
+cityof*.gov^$boost=5
+cityof*.org^$boost=4
+cityof*.com^$boost=3
+cityof*.us^$boost=3
 visit*.com^$boost=2
 
-! Downrank websites that are less likey useful
-*.tv^$downrank
-*.ai^$downrank
-*.net^$downrank
+! Boost specific URL paths
+/event/$boost
+/?event=$boost
+/events/$boost
+/calendar/$boost
+/library/$boost
 
-! Discard without exception
+! Downrank websites that are less likey useful
+.tv^$downrank=2
+.ai^$downrank=2
+.net^$downrank
+
+! Discard in domain level
+.online^$discard
+.pictures^$discard
+.photos^$discard
+.digital^$discard
+.email^$discard
+.website^$discard
+.careers^$discard
+.app^$discard
+.casino^$discard
+.chat^$discard
+.construction^$discard
+.consulting^$discard
+.contact^$discard
+.holdings^$discard
+.rent^$discard
+.rentals^$discard
+.tax^$discard
+
+! Discard specific URL paths
+/pinterest/$discard
+/instagram/$discard
+/meetings/$discard
+/meeting/$discard
+/board/$discard
+
+
+! Discard websites
 $discard,site=abc.com
 $discard,site=alibaba.com
 $discard,site=aliexpress.com
@@ -110,6 +163,7 @@ $discard,site=trulia.com
 $discard,site=visitfresnocounty.org
 $discard,site=walmart.com
 $discard,site=washingtonpost.com
+$discard,site=wayfair.com
 $discard,site=washingtontimes.com
 $discard,site=weather.com
 $discard,site=wikipedia.org
