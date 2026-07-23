@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=aguilarco.us
 $boost=2,site=townofakron.colorado.gov
 $boost=2,site=cityofalamosa.org

@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=site=29palms.org
 $boost=2,site=site=accessduarte.com
 $boost=2,site=site=acgov.org
