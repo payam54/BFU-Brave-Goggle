@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=cityofalachua.com
 $boost=2,site=altamonte.org
 $boost=2,site=cityofannamaria.com
@@ -396,3 +397,4 @@ $boost=2,site=winterspringsfl.org
 $boost=2,site=yankeetownfl.org
 $boost=2,site=ci.zephyrhills.fl.us
 $boost=2,site=townofzolfo.com
+

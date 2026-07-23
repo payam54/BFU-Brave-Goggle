@@ -4,6 +4,7 @@
 ! author: payam54
 
 
+! Boost specific URL paths
 $boost=2,site=addisonmi.us
 $boost=2,site=adriancity.com
 $boost=2,site=infomi.com
@@ -488,3 +489,4 @@ $boost=2,site=yalemi.us
 $boost=2,site=cityofypsilanti.com
 $boost=2,site=ci.zeeland.mi.us
 $boost=2,site=zilwaukeemichigan.gov
+

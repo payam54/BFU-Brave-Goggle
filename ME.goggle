@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=portlandmaine.gov
 $boost=2,site=lewistonmaine.gov
 $boost=2,site=bangormaine.gov
@@ -411,3 +412,4 @@ $boost=2,site=theforksplt.org
 $boost=2,site=pattenmaine.org
 $boost=2,site=fryeislandtown.org
 $boost=2,site=frenchboro.maine.gov
+

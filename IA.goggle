@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=ackleyiowa.net
 $boost=2,site=adeliowa.gov
 $boost=2,site=akronia.org
@@ -271,3 +272,4 @@ $boost=2,site=winfieldiowa.com
 $boost=2,site=winterset.gov
 $boost=2,site=woodbineia.com
 $boost=2,site=woodwardia.org
+

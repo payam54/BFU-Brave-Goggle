@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=adamstennessee.net
 $boost=2,site=cityofadamsville.com
 $boost=2,site=townofalamo.net
@@ -255,3 +256,4 @@ $boost=2,site=townofwhiteville.com
 $boost=2,site=cityofwhitwell.com
 $boost=2,site=winchester-tn.com
 $boost=2,site=woodlandmillstn.net
+

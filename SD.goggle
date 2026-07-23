@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=siouxfalls.gov
 $boost=2,site=rcgov.org
 $boost=2,site=aberdeen.sd.us
@@ -128,3 +129,4 @@ $boost=2,site=stickneysd.com
 $boost=2,site=bisonsd.com
 $boost=2,site=bristolsd.com
 $boost=2,site=langfordsd.com
+

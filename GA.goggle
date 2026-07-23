@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=abbevillega.org
 $boost=2,site=acworth-ga.gov
 $boost=2,site=adairsvillega.net
@@ -402,3 +403,4 @@ $boost=2,site=woolseyga.com
 $boost=2,site=cityofwrens.com
 $boost=2,site=youngharrisga.net
 $boost=2,site=cityofzebulonga.us
+

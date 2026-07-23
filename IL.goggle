@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=chicago.gov
 $boost=2,site=aurora.il.us
 $boost=2,site=joliet.gov
@@ -719,3 +720,4 @@ $boost=2,site=troutvalleyil.com
 $boost=2,site=villageofwapella.org
 $boost=2,site=villageofhammond.com
 $boost=2,site=villageofdakota.com
+

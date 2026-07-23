@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=anmoorewv.com
 $boost=2,site=anstedwv.com
 $boost=2,site=townofathens.com
@@ -91,3 +92,4 @@ $boost=2,site=wheelingwv.gov
 $boost=2,site=local.wv.gov
 $boost=2,site=windsorheightswv.weebly.com
 $boost=2,site=cityofwinfield.net
+

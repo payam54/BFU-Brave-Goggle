@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=newcastlede.gov
 $boost=2,site=kentcountyde.gov
 $boost=2,site=sussexcountyde.gov
@@ -62,3 +63,4 @@ $boost=2,site=viola.delaware.gov
 $boost=2,site=wilmingtoncitycouncil.com
 $boost=2,site=woodside.delaware.gov
 $boost=2,site=wyoming.delaware.gov
+

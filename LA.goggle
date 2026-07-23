@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=cityofabbeville.net
 $boost=2,site=townofabitasprings.com
 $boost=2,site=addisla.org
@@ -176,3 +177,4 @@ $boost=2,site=townofwinnsborola.com
 $boost=2,site=townofwoodworth.com
 $boost=2,site=youngsville.us
 $boost=2,site=cityofzachary.org
+

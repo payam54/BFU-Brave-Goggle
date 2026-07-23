@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=jacksonms.gov
 $boost=2,site=gulfport-ms.gov
 $boost=2,site=southaven.org
@@ -161,3 +162,4 @@ $boost=2,site=townofboltonms.com
 $boost=2,site=townofbluespringsms.com
 $boost=2,site=mayersville.ms.gov
 $boost=2,site=carrolltonms.net
+

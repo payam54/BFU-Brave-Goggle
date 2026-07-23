@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=charlottenc.gov
 $boost=2,site=raleighnc.gov
 $boost=2,site=greensboro-nc.gov
@@ -388,7 +389,6 @@ $boost=2,site=wadenc.com
 $boost=2,site=villageofmisenheimernc.gov
 $boost=2,site=eastbendnc.com
 $boost=2,site=townofwhitakers.org
-$boost=2,site=townofwinton@gmail.com
 $boost=2,site=minnesottbeachnc.govoffice2.com
 $boost=2,site=richfieldnc.com
 $boost=2,site=townofgarlandnc.com
@@ -487,3 +487,4 @@ $boost=2,site=maconnc.org
 $boost=2,site=townofsevensprings.com
 $boost=2,site=fontanavillage.com
 $boost=2,site=townoflakesanteetlah.org
+

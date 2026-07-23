@@ -3,6 +3,7 @@ A! name: WY Brave Goggle
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=aftonwyoming.gov
 $boost=2,site=alpinewy.gov
 $boost=2,site=townofbaggs.com
@@ -48,3 +49,4 @@ $boost=2,site=townoftensleep.com
 $boost=2,site=thayne-wy.com
 $boost=2,site=townofupton.com
 $boost=2,site=wrightwyoming.com
+

@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=beaver.utah.gov
 $boost=2,site=boxeldercountyut.gov
 $boost=2,site=cachecounty.org
@@ -217,3 +218,4 @@ $boost=2,site=wvc-ut.gov
 $boost=2,site=whitecity-ut.org
 $boost=2,site=woodlandhills-ut.gov
 $boost=2,site=woodscross.com
+

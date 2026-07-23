@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=townofadams.com
 $boost=2,site=villageofaddison.info
 $boost=2,site=townofafton.com
@@ -1295,3 +1296,4 @@ $boost=2,site=yorkshireny.org
 $boost=2,site=yorktownny.org
 $boost=2,site=villageofyorkvilleny.org
 $boost=2,site=youngstownnewyork.us
+
