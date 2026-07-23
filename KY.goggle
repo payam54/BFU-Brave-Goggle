@@ -1,0 +1,54 @@
+! name: KY Brave Goggle
+! description: Boosts Kentucky municipal websites
+! public: false
+! author: payam54
+
+$boost=2,site=alexandriaky.gov
+$boost=2,site=cityofanchorage.org
+$boost=2,site=boonecountyky.org
+$boost=2,site=campbellcountyky.gov
+$boost=2,site=carrollcountygov.us
+$boost=2,site=grantcounty.ky.gov
+$boost=2,site=kentoncounty.org
+$boost=2,site=owencountyky.us
+$boost=2,site=pendletoncounty.ky.gov
+$boost=2,site=florence-ky.gov
+$boost=2,site=cityofunionky.org
+$boost=2,site=cityofwalton.org
+$boost=2,site=bellevueky.org
+$boost=2,site=coldspringky.com
+$boost=2,site=daytonky.com
+$boost=2,site=fortthomasky.org
+$boost=2,site=hhky.com
+$boost=2,site=cityofmelbourneky.com
+$boost=2,site=newportky.gov
+$boost=2,site=cityofsilvergroveky.com
+$boost=2,site=southgateky.org
+$boost=2,site=cityofwilder.com
+$boost=2,site=woodlawnky.gov
+$boost=2,site=carrolltonky.net
+$boost=2,site=cityofwarsawky.org
+$boost=2,site=corinth.ky.gov
+$boost=2,site=cityofcrittendenky.com
+$boost=2,site=cdrky.org
+$boost=2,site=wtownky.org
+$boost=2,site=cityofbromley.com
+$boost=2,site=covingtonky.gov
+$boost=2,site=crescent-springs.ky.us
+$boost=2,site=crestviewhills.com
+$boost=2,site=edgewoodky.gov
+$boost=2,site=cityofelsmere.com
+$boost=2,site=erlangerky.gov
+$boost=2,site=fairview.ky.gov
+$boost=2,site=fortmitchell.com
+$boost=2,site=fortwright.com
+$boost=2,site=cityofindependence.org
+$boost=2,site=cityoflakesidepark.com
+$boost=2,site=ludlow.org
+$boost=2,site=cityofparkhills.net
+$boost=2,site=cityofrylandheights.org
+$boost=2,site=taylormillky.gov
+$boost=2,site=villahillsky.org
+$boost=2,site=cityofowentonky.us
+$boost=2,site=butlerky.org
+$boost=2,site=cityoffalmouth.com

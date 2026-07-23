@@ -1,0 +1,9 @@
+! name: HI Brave Goggle
+! description: Boosts Hawaii municipal websites
+! public: false
+! author: payam54
+
+$boost=2,site=honolulu.gov
+$boost=2,site=kailuatownhi.com
+$boost=2,site=destinationhilo.com
+$boost=2,site=downtownhilohi.com
