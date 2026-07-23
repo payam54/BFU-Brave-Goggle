@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=honolulu.gov
 $boost=2,site=kailuatownhi.com
 $boost=2,site=destinationhilo.com
