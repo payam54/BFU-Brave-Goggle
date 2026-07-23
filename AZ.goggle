@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=ajcity.net
 $boost=2,site=avondale.org
 $boost=2,site=cityofbenson.com

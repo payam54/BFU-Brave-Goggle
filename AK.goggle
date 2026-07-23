@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=fairbanks.gov
 $boost=2,site=fnsb.gov
 $boost=2,site=ci.galena.ak.us

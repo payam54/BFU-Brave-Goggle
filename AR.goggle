@@ -3,6 +3,7 @@
 ! public: false
 ! author: payam54
 
+! Boost specific URL paths
 $boost=2,site=cityofalexander.com
 $boost=2,site=almaarkansas.gov
 $boost=2,site=amityarkansas.us
