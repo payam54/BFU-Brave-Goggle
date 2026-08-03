@@ -590,3 +590,5 @@ $boost=2,site=yubacity.net
 $boost=2,site=yucaipa.gov
 $boost=2,site=yucca-valley.org
 $boost=2,site=yville.com
+
+$discard,site=visitdublin.com

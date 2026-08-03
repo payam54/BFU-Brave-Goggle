@@ -72,6 +72,12 @@
 .rent^$discard
 .rentals^$discard
 .tax^$discard
+.uk^$discard
+.au^$discard
+.nz^$discard
+.ie^$discard
+.ca^$discard
+.scot^$discard
 
 ! Discard specific URL paths
 /*agenda*$discard
