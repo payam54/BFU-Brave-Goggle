@@ -42,7 +42,7 @@ $boost=2,site=biggs-ca.gov
 $boost=2,site=bluelake.ca.gov
 $boost=2,site=brawley-ca.gov
 $boost=2,site=brentwoodca.gov
-$boost=2,site=brisbaneca.org
+$boost=2,site=brisbaneca.gov
 $boost=2,site=buenapark.com
 $boost=2,site=burbankca.gov
 $boost=2,site=burlingame.org
@@ -57,6 +57,7 @@ $boost=2,site=carlsbadca.gov
 $boost=2,site=carpinteriaca.gov
 $boost=2,site=cathedralcity.gov
 $boost=2,site=ceo.sccgov.org
+$boost=2,site=celebrateantioch.org
 $boost=2,site=ceres.gov
 $boost=2,site=cerritos.gov
 $boost=2,site=cerritos.us
@@ -162,6 +163,7 @@ $boost=2,site=cityofexeter.com
 $boost=2,site=cityoffarmersville-ca.gov
 $boost=2,site=cityoffullerton.com
 $boost=2,site=cityofgalt.org
+$boost=2,site=galtherald.com
 $boost=2,site=cityofgardena.org
 $boost=2,site=cityofgilroy.org
 $boost=2,site=cityofglendora.gov
@@ -178,6 +180,7 @@ $boost=2,site=cityofimperial.org
 $boost=2,site=cityofindianwells.org
 $boost=2,site=cityofindustry.org
 $boost=2,site=cityofinglewood.org
+$boost=2,site=themiracleinglewood.com
 $boost=2,site=cityofirvine.org
 $boost=2,site=cityofisleton.com
 $boost=2,site=cityofkerman.net
@@ -310,6 +313,7 @@ $boost=2,site=colfax-ca.gov
 $boost=2,site=colma.ca.gov
 $boost=2,site=commerceca.gov
 $boost=2,site=comptoncity.org
+$boost=2,site=contracosta.news
 $boost=2,site=corning.org
 $boost=2,site=coronaca.gov
 $boost=2,site=coronado.ca.us
@@ -330,6 +334,7 @@ $boost=2,site=cypressca.org
 $boost=2,site=dalycity.org
 $boost=2,site=danapoint.org
 $boost=2,site=danville.ca.gov
+$boost=2,site=delhicenter.org
 $boost=2,site=delmar.ca.us
 $boost=2,site=delreyoaks.org
 $boost=2,site=diamondbarca.gov
@@ -338,8 +343,10 @@ $boost=2,site=dinuba.org
 $boost=2,site=dorrisca.us
 $boost=2,site=dospalos.org
 $boost=2,site=downeyca.org
+$boost=2,site=downtownontario.org
 $boost=2,site=dublin.ca.gov
 $boost=2,site=eastvaleca.gov
+$boost=2,site=eastcountylive.com
 $boost=2,site=edcgov.us
 $boost=2,site=el-cerrito.org
 $boost=2,site=elcajon.gov
@@ -412,6 +419,8 @@ $boost=2,site=lindsay.ca.us
 $boost=2,site=liveoakcity.org
 $boost=2,site=livermoreca.gov
 $boost=2,site=lodi.gov
+$boost=2,site=visitlodi.com
+$boost=2,site=grapefestival.com
 $boost=2,site=lomalinda-ca.gov
 $boost=2,site=lomitacity.com
 $boost=2,site=longbeach.gov
@@ -451,6 +460,7 @@ $boost=2,site=nevadacityca.gov
 $boost=2,site=newark.org
 $boost=2,site=newportbeachca.gov
 $boost=2,site=norco.ca.us
+$boost=2,site=visionofhopevillage.org
 $boost=2,site=norwalkca.gov
 $boost=2,site=novato.org
 $boost=2,site=Novato.org
@@ -460,6 +470,7 @@ $boost=2,site=oaklandnet.com
 $boost=2,site=oakleyca.gov
 $boost=2,site=ojai.ca.gov
 $boost=2,site=ontarioca.gov
+$boost=2,site=orangecounty.net
 $boost=2,site=oxnard.gov
 $boost=2,site=palmdesert.gov
 $boost=2,site=palmspringsca.gov
@@ -550,6 +561,7 @@ $boost=2,site=sunnyvale.ca.gov
 $boost=2,site=tehachapicityhall.com
 $boost=2,site=temeculaca.gov
 $boost=2,site=templecity.us
+$boost=2,site=thepress.net
 $boost=2,site=toaks.gov
 $boost=2,site=TorranceCA.gov
 $boost=2,site=torranceca.gov
@@ -572,6 +584,7 @@ $boost=2,site=uplandca.gov
 $boost=2,site=victorvilleca.gov
 $boost=2,site=villapark.org
 $boost=2,site=visalia.city
+$boost=2,site=visitamador.com
 $boost=2,site=Vista.gov
 $boost=2,site=walnutcreekca.gov
 $boost=2,site=watsonville.gov

@@ -78,6 +78,7 @@
 .ie^$discard
 .ca^$discard
 .scot^$discard
+.church^$discard
 
 ! Discard specific URL paths
 /*agenda*$discard
@@ -86,6 +87,7 @@
 /board/$discard
 /instagram/$discard
 /pinterest/$discard
+/worship/$discard
 
 ! Discard websites
 $discard,site=abc.com
