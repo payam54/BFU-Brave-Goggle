@@ -5,9 +5,9 @@
 
 ! Boost government, education, and municipal TLDs
 *.gov^$boost=2
-*.city^$boost=2
+*.city^$boost=3
 *.town^$boost=2
-*.edu^$boost=2
+*.edu^$boost
 
 ! Boost all domains (this covers *.state.us)
 *.art^$boost
