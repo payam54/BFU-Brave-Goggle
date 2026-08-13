@@ -28,6 +28,11 @@
 *.wine^$boost
 *.college^$boost
 *.university^$boost
+*.macaronikid.com^$boost
+
+! Boost websites
+$boost,site=yodel.today
+
 
 ! Boost specific URL paths
 /?event=$boost=2
