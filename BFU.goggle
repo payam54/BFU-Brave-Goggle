@@ -32,7 +32,7 @@
 
 ! Boost websites
 $boost,site=yodel.today
-
+$boost,site=eventeny.com
 
 ! Boost specific URL paths
 /?event=$boost=2
@@ -51,7 +51,6 @@ $boost,site=yodel.today
 /whats-on^$boost=2
 *calendar/events*$boost=2
 *calendar.aspx?eid=$boost=4
-
 
 ! Downrank websites that are less likey useful
 .tv^$downrank=2
@@ -105,12 +104,14 @@ $discard,site=apple.com
 $discard,site=apnews.com
 $discard,site=bbb.org
 $discard,site=bestbuy.com
+$discard,site=bfu.info
 $discard,site=bing.com
 $discard,site=blogger.com
 $discard,site=booking.com
 $discard,site=buzz4.us
 $discard,site=buzz4us.com
 $discard,site=buzzfor.us
+$discard,site=buzz4.us
 $discard,site=buzzforus.ca
 $discard,site=buzzforus.com
 $discard,site=calendar.google.com

@@ -3,7 +3,15 @@
 ! public: false
 ! author: payam54
 
+! Discard specific URLs
+$discard,site=visitdublin.com
+
 ! Boost specific URL paths
+*.pbssocal.org/event^$boost=3
+*.pbssocal.org/event^$boost=3
+*.visitcalifornia.com/events^$boost=3
+
+! Boost specific domains
 $boost=2,site=29palms.org
 $boost=2,site=accessduarte.com
 $boost=2,site=acgov.org
@@ -362,6 +370,7 @@ $boost=2,site=eurekaca.gov
 $boost=2,site=fairfield.ca.gov
 $boost=2,site=fillmoreca.gov
 $boost=2,site=firebaugh.org
+$boost=2,site=fishermanswharf.org
 $boost=2,site=folsom.ca.us
 $boost=2,site=fontanaca.gov
 $boost=2,site=fortjonesca.org
@@ -536,7 +545,10 @@ $boost=2,site=sbcity.org
 $boost=2,site=scottsvalley.gov
 $boost=2,site=scottsvalley.org
 $boost=2,site=sealbeachca.gov
+$boost=2,site=seecalifornia.com
+$boost=2,site=seemonterey.com
 $boost=2,site=sf.gov
+$boost=2,site=sf.funcheap.com
 $boost=2,site=sfgov.org
 $boost=2,site=shafter.com
 $boost=2,site=sierramadreca.com
@@ -603,5 +615,4 @@ $boost=2,site=yubacity.net
 $boost=2,site=yucaipa.gov
 $boost=2,site=yucca-valley.org
 $boost=2,site=yville.com
-
-$discard,site=visitdublin.com
+$boost,site=pbssocal.org
