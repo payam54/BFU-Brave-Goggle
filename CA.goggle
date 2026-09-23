@@ -5,6 +5,7 @@
 
 ! Discard specific URLs
 $discard,site=visitdublin.com
+$discard,site=fullerton.events
 
 ! Boost specific URL paths
 *.pbssocal.org/event^$boost=3
