@@ -16,7 +16,6 @@ $boost=2,site=arkansascityks.gov
 $boost=2,site=armakansas.org
 $boost=2,site=cityofatchison.com
 $boost=2,site=augustaks.org
-$boost=2,site=marshallco.net
 $boost=2,site=baldwincity.org
 $boost=2,site=barnesks.net
 $boost=2,site=cityofbasehor.org
@@ -27,7 +26,6 @@ $boost=2,site=cityofbellevillekansas.com
 $boost=2,site=beloitks.org
 $boost=2,site=cityofbelvue.50megs.com
 $boost=2,site=cityofbennington.com
-$boost=2,site=bentleyks.webs.com
 $boost=2,site=bentonks.org
 $boost=2,site=bluerapids.org
 $boost=2,site=bonnersprings.org
@@ -76,7 +74,6 @@ $boost=2,site=cityofdouglassks.com
 $boost=2,site=downsks.net
 $boost=2,site=dwightks.net
 $boost=2,site=eastborough-ks.gov
-$boost=2,site=eastonks.com
 $boost=2,site=edgertonks.org
 $boost=2,site=cityofedna.org
 $boost=2,site=edwardsvilleks.org
@@ -85,7 +82,6 @@ $boost=2,site=ci.elkhart.ks.us
 $boost=2,site=cityofellinwoodks.com
 $boost=2,site=ellis.ks.us
 $boost=2,site=ellsworthks.net
-$boost=2,site=elwoodkansas.org
 $boost=2,site=emporia-kansas.gov
 $boost=2,site=cityofensign.com
 $boost=2,site=enterpriseks.org
@@ -93,7 +89,6 @@ $boost=2,site=erieks.com
 $boost=2,site=eskridgeks.org
 $boost=2,site=cityofeudoraks.gov
 $boost=2,site=eurekaks.org
-$boost=2,site=fairviewks.com
 $boost=2,site=fairwaykansas.org
 $boost=2,site=florenceks.com
 $boost=2,site=miamicountyks.org
@@ -169,7 +164,6 @@ $boost=2,site=cityofliberal.org
 $boost=2,site=lincolnks.org
 $boost=2,site=lindsborgcity.org
 $boost=2,site=cityoflinnvalley.com
-$boost=2,site=linwoodlibrary.org
 $boost=2,site=cityoflongton.com
 $boost=2,site=lorrainekansas.com
 $boost=2,site=louisburgkansas.gov
@@ -191,7 +185,6 @@ $boost=2,site=meridenks.com
 $boost=2,site=merriam.org
 $boost=2,site=miltonvaleks.com
 $boost=2,site=minneapolis-ks.com
-$boost=2,site=minneolakansas.com
 $boost=2,site=missionks.org
 $boost=2,site=missionhillsks.gov
 $boost=2,site=molinekansas.com
@@ -267,7 +260,6 @@ $boost=2,site=smks.info
 $boost=2,site=stpaulks.us
 $boost=2,site=cityofstaffordks.com
 $boost=2,site=sterling-kansas.com
-$boost=2,site=stocktonkansas.net
 $boost=2,site=strong-city.org
 $boost=2,site=sublettekansas.com
 $boost=2,site=sylvangrovekansas.com
@@ -298,7 +290,30 @@ $boost=2,site=whitecityks.net
 $boost=2,site=wichita.gov
 $boost=2,site=williamsburgks.us
 $boost=2,site=wilsonkansas.com
-$boost=2,site=cityofwindomks.com
 $boost=2,site=winfieldks.org
 $boost=2,site=cityofyatescenter.com
-
+$boost=2,site=cityofamericus.municipalimpact.com
+$boost=2,site=www.ashlandks.com
+$boost=2,site=www.cityofatticaks.com
+$boost=2,site=www.cityofatwoodks.com
+$boost=2,site=www.auburnks.com
+$boost=2,site=www.bucklinks.com
+$boost=2,site=burdenks.gov
+$boost=2,site=cityofcherokeeks.com
+$boost=2,site=galenaks.gov
+$boost=2,site=www.cityofgalvaks.com
+$boost=2,site=www.cityofhanoverks.com
+$boost=2,site=hoytks.net
+$boost=2,site=www.cityofkinsley.org
+$boost=2,site=cityofleon.org
+$boost=2,site=www.madisonkansas.org
+$boost=2,site=maplehillks.com
+$boost=2,site=www.cityofmontezumaks.com
+$boost=2,site=www.cityofolpe.org
+$boost=2,site=www.cityofperryks.com
+$boost=2,site=plainsks.citycode.net
+$boost=2,site=www.cityofquinter.com
+$boost=2,site=www.satantaks.citycode.net
+$boost=2,site=www.stgeorgeks.gov
+$boost=2,site=www.cityoftowanda.com
+$boost=2,site=whitewaterks.gov

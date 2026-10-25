@@ -9,14 +9,14 @@ $boost=2,site=lewistonmaine.gov
 $boost=2,site=bangormaine.gov
 $boost=2,site=southportland.gov
 $boost=2,site=auburnmaine.gov
-$boost=2,site=Biddefordmaine.org
+$boost=2,site=biddefordmaine.org
 $boost=2,site=scarboroughmaine.org
 $boost=2,site=sanfordmaine.org
 $boost=2,site=brunswickme.gov
 $boost=2,site=westbrookmaine.gov
 $boost=2,site=sacomaine.org
 $boost=2,site=augustamaine.gov
-$boost=2,site=WindhamMaine.us
+$boost=2,site=windhammaine.us
 $boost=2,site=gorhammaine.gov
 $boost=2,site=waterville-me.gov
 $boost=2,site=yorkmaine.org
@@ -341,7 +341,6 @@ $boost=2,site=townoftemple.org
 $boost=2,site=alexandermaine.com
 $boost=2,site=cutlermaine.net
 $boost=2,site=veroname.org
-$boost=2,site=mapleton.me
 $boost=2,site=whitingmaine.com
 $boost=2,site=arrowsic.org
 $boost=2,site=columbiafallsmaine.org
@@ -359,7 +358,6 @@ $boost=2,site=townofwinn.org
 $boost=2,site=townofchebeagueisland.org
 $boost=2,site=stowmaine.us
 $boost=2,site=weld-maine.org
-$boost=2,site=mapleton.me
 $boost=2,site=burlingtonme.com
 $boost=2,site=lowellme.org
 $boost=2,site=grandislemaine.com
@@ -398,7 +396,6 @@ $boost=2,site=haynesvilleme.gov
 $boost=2,site=townofaurora.wixsite.com
 $boost=2,site=caratunkmaine.gov
 $boost=2,site=cyrplantationmaine.org
-$boost=2,site=pattenmaine.org
 $boost=2,site=talmadge.me
 $boost=2,site=osbornmaine.org
 $boost=2,site=monheganplantation.gov
@@ -409,7 +406,5 @@ $boost=2,site=westforks.org
 $boost=2,site=matinicusplantation.com
 $boost=2,site=highlandplt.com
 $boost=2,site=theforksplt.org
-$boost=2,site=pattenmaine.org
 $boost=2,site=fryeislandtown.org
 $boost=2,site=frenchboro.maine.gov
-
