@@ -8,7 +8,6 @@ $boost=2,site=newcastlede.gov
 $boost=2,site=kentcountyde.gov
 $boost=2,site=sussexcountyde.gov
 $boost=2,site=ardencroft.delaware.gov
-$boost=2,site=ardencroft.delaware.gov
 $boost=2,site=arden.delaware.gov
 $boost=2,site=townofbellefonte.com
 $boost=2,site=townofbethanybeach.com
@@ -63,4 +62,6 @@ $boost=2,site=viola.delaware.gov
 $boost=2,site=wilmingtoncitycouncil.com
 $boost=2,site=woodside.delaware.gov
 $boost=2,site=wyoming.delaware.gov
-
+$boost=2,site=dover.de.us
+$boost=2,site=wilmingtonde.gov
+$boost=2,site=newport.delaware.gov

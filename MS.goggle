@@ -93,7 +93,6 @@ $boost=2,site=cityofdurantms.com
 $boost=2,site=cityofmendenhall.com
 $boost=2,site=cityquitman.net
 $boost=2,site=cityofunionms.gov
-$boost=2,site=cityofshelbyms.com
 $boost=2,site=cityofeuporams.gov
 $boost=2,site=raymondms.com
 $boost=2,site=townofdecaturms.gov
@@ -124,7 +123,6 @@ $boost=2,site=terryms.org
 $boost=2,site=townoflambert.com
 $boost=2,site=pelahatchie.org
 $boost=2,site=townofcentrevillems.org
-$boost=2,site=visittvillems.org
 $boost=2,site=caledoniams.net
 $boost=2,site=mantachie.itawambams.com
 $boost=2,site=townofcomo.municipalimpact.com
@@ -146,12 +144,10 @@ $boost=2,site=maben.ms.gov
 $boost=2,site=townofscooba.net
 $boost=2,site=walnut.ms
 $boost=2,site=houlkams.com
-$boost=2,site=townofheidelberg.net
 $boost=2,site=uticams.org
 $boost=2,site=cityofduckhill.com
 $boost=2,site=shermanms.gov
 $boost=2,site=polkville.org
-$boost=2,site=amitecounty.ms
 $boost=2,site=ashland.ms
 $boost=2,site=walnutgrove-ms.com
 $boost=2,site=smithvillems.org
@@ -162,4 +158,16 @@ $boost=2,site=townofboltonms.com
 $boost=2,site=townofbluespringsms.com
 $boost=2,site=mayersville.ms.gov
 $boost=2,site=carrolltonms.net
-
+$boost=2,site=batesvillems.gov
+$boost=2,site=www.beaumont.ms.gov
+$boost=2,site=www.townofbudems.com
+$boost=2,site=www.charlestonms.org
+$boost=2,site=diamondhead.ms.gov
+$boost=2,site=www.farmington.ms.gov
+$boost=2,site=www.gluckstadtms.org
+$boost=2,site=hazlehurstms.govtportal.com
+$boost=2,site=lumbertonms.gov
+$boost=2,site=purvis-ms.gov
+$boost=2,site=www.townofrenovams.com
+$boost=2,site=www.rollingfork.ms.gov
+$boost=2,site=www.townofwalls.com

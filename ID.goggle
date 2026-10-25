@@ -14,7 +14,6 @@ $boost=2,site=cityofashton.com
 $boost=2,site=cityofathol.us
 $boost=2,site=cityofbancroft.com
 $boost=2,site=bellevueidaho.us
-$boost=2,site=bellevueidaho.us
 $boost=2,site=cityofblackfoot.org
 $boost=2,site=bloomingtonidaho.net
 $boost=2,site=cityofboise.org
@@ -37,7 +36,6 @@ $boost=2,site=cityofcraigmontid.com
 $boost=2,site=cityofcrouch.org
 $boost=2,site=daltongardens.govoffice.com
 $boost=2,site=dearyidaho.com
-$boost=2,site=chamberorganizer.com
 $boost=2,site=dietrichidaho.com
 $boost=2,site=cityofdonnelly.org
 $boost=2,site=cityofdover.id.gov
@@ -164,4 +162,9 @@ $boost=2,site=cityofweston-id.org
 $boost=2,site=cityofwilder.org
 $boost=2,site=cityofwinchesteridaho.com
 $boost=2,site=cityofworley.org
-
+$boost=2,site=duboisidaho.gov
+$boost=2,site=parisidaho.com
+$boost=2,site=www.cityofririe.com
+$boost=2,site=rupert-idaho.com
+$boost=2,site=spiritlakeid.gov
+$boost=2,site=www.stmariesid.com
